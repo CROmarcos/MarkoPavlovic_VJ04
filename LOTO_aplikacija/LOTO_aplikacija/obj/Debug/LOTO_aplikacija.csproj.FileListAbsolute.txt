@@ -1,1 +1,9 @@
 C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\bin\Debug\LOTO_aplikacija.exe.config
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\bin\Debug\LOTO_aplikacija.exe
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\bin\Debug\LOTO_aplikacija.pdb
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\obj\Debug\LOTO_aplikacija.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\obj\Debug\LOTO_aplikacija.FrmLoto.resources
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\obj\Debug\LOTO_aplikacija.Properties.Resources.resources
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\obj\Debug\LOTO_aplikacija.csproj.GenerateResource.Cache
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\obj\Debug\LOTO_aplikacija.exe
+C:\Users\Marko\Documents\GitHub\MarkoPavlovic_VJ04\LOTO_aplikacija\LOTO_aplikacija\obj\Debug\LOTO_aplikacija.pdb
